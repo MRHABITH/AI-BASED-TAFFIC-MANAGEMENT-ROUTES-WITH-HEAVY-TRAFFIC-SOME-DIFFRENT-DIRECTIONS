@@ -6,3 +6,9 @@ REAL TIME MONITORING AND ADOPTATION TRAFFIC LIGHT TIMMINGS
 ![3](https://github.com/user-attachments/assets/5f4913b2-7f82-440f-9886-6d8095903a57)
 
 
+
+ # DEMO VIDEO
+ 
+
+https://github.com/user-attachments/assets/8771faee-6e9f-4267-902d-9b41f9da30e1
+
